@@ -1,6 +1,6 @@
 ﻿ @@ hightlight id_;_394000_;_script infofile_;_ZIP::ssf1.xml_;_
 
-'qsdlfkjqsdlkfjsqd
+'qsdlfkjqsdlkfjsqd git ici
  
 Window("Calculator").WinButton("Button").Click @@ hightlight id_;_133266_;_script infofile_;_ZIP::ssf2.xml_;_
 Window("Calculator").WinButton("Button_2").Click @@ hightlight id_;_590676_;_script infofile_;_ZIP::ssf3.xml_;_
