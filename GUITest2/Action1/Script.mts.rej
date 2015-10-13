@@ -1,0 +1,12 @@
+diff a/GUITest2/Action1/Script.mts b/GUITest2/Action1/Script.mts	(rejected hunks)
+@@ -18,4 +18,10 @@
+ 
+ Window("Calculator").Static("Result").Check CheckPoint("0") @@ hightlight id_;_592486_;_script infofile_;_ZIP::ssf11.xml_;_
+ 
++<<<<<<< HEAD
++=======
++RunAction "Action2", oneIteration
++
++
++>>>>>>> 5f2ba0012e84a0f02621cd4cff692278cbed0522
+ 

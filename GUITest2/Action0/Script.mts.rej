@@ -1,0 +1,8 @@
+diff a/GUITest2/Action0/Script.mts b/GUITest2/Action0/Script.mts	(rejected hunks)
+@@ -1 +1,6 @@
+ ﻿RunAction "Action1", oneIteration
++<<<<<<< HEAD
++=======
++RunAction "Action2", oneIteration
++RunAction "Action3", oneIteration
++>>>>>>> 5f2ba0012e84a0f02621cd4cff692278cbed0522
