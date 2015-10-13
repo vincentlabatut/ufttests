@@ -1,7 +1,7 @@
 ﻿ @@ hightlight id_;_394000_;_script infofile_;_ZIP::ssf1.xml_;_
 
 <<<<<<< HEAD
-'qsdlfkjqsdlkfjsqd git ici
+'qsdlfkjqsdlkfjsqd git ici zqdf
 =======
 'qsdlfkjqsdlkfjsqd
 >>>>>>> 5f2ba0012e84a0f02621cd4cff692278cbed0522
