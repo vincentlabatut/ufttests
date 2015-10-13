@@ -1,2 +1,3 @@
 ﻿RunAction "La deuxième", oneIteration
-RunAction "Action1", oneIteration
+RunAction "La première", oneIteration
+RunAction "Action2 [GUITest2]", oneIteration
