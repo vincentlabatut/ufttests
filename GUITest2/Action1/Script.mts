@@ -15,4 +15,4 @@ Window("Calculator").WinButton("Button_7").Click @@ hightlight id_;_132216_;_scr
 
 Window("Calculator").Static("Result").Check CheckPoint("0") @@ hightlight id_;_592486_;_script infofile_;_ZIP::ssf11.xml_;_
 
-RunAction "Action2", oneIteration
+
